@@ -1,1 +1,1 @@
-###### [View this repository on NBViewer](http://nbviewer.jupyter.org/github/arunjvarghese/SI760-Language_and_Information/tree/master/Presentation/)
+###### [View this repository on NBViewer](http://nbviewer.jupyter.org/github/arunjvarghese/SI760-Language-and-Information/tree/master/Resource%20report/)
